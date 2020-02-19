@@ -1,0 +1,4 @@
+#Wed Feb 12 18:51:39 IST 2020
+base.0=/home/mindbowser/Documents/MindbowserAss_Redux_Hooks/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
